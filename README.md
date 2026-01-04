@@ -8,7 +8,7 @@
 
 ## 项目
 
-我参与的项目：
+我贡献过的项目：
 
 - **[ClassIsland/ClassIsland ![Stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?label=Stars)](https://github.com/ClassIsland/ClassIsland/)**
   <br/>
