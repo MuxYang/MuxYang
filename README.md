@@ -4,7 +4,7 @@
 
 ## 总览
 
-![](profile-3d-contrib/profile-night-green.svg)
+![]([profile-3d-contrib/profile-night-green.svg](https://raw.githubusercontent.com/MuxYang/MuxYang/refs/heads/main/profile-3d-contrib/profile-night-green.svg))
 
 ## 项目
 
