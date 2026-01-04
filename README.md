@@ -1,10 +1,10 @@
 ## 你好 👋
 
-我是 MuxYang，就读于安徽大学。
+我是 MuxYang,就读于安徽大学。
 
 ## 总览
 
-![]([profile-3d-contrib/profile-night-green.svg](https://raw.githubusercontent.com/MuxYang/MuxYang/refs/heads/main/profile-3d-contrib/profile-night-green.svg))
+![](https://raw.githubusercontent.com/MuxYang/MuxYang/refs/heads/main/profile-3d-contrib/profile-night-green.svg)
 
 ## 项目
 
@@ -12,7 +12,7 @@
 
 - **[ClassIsland/ClassIsland ![Stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?label=Stars)](https://github.com/ClassIsland/ClassIsland/)**
   <br/>
-  一款适用于班级多媒体屏幕的课表的信息显示工具，可以一目了然地显示各种信息。
+  一款适用于班级多媒体屏幕的课表的信息显示工具,可以一目了然地显示各种信息。
 
 ## 开发
 
@@ -33,10 +33,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
