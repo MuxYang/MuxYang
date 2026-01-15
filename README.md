@@ -4,7 +4,7 @@
 
 ## 总览
 
-![](https://raw.githubusercontent.com/MuxYang/MuxYang/refs/heads/main/profile-3d-contrib/profile-night-green.svg)
+![](https://gh-proxy.com/https://raw.githubusercontent.com/MuxYang/MuxYang/refs/heads/main/profile-3d-contrib/profile-night-green.svg)
 
 ## 项目
 
