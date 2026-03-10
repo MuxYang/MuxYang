@@ -26,4 +26,4 @@
 
 ## 与我联系
 
-- 电子邮件：<admin@muxyang.com>
+- 电子邮件：<contact@muxyang.com>
